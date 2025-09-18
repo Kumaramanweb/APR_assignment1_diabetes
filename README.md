@@ -45,7 +45,7 @@ The dataset contains patient health information and a target column (`CLASS`) in
 1. Clone this repository:
 
    bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Kumaramanweb/APR_assignment1_diabetes.git
    cd your-repo
    
 
